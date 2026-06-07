@@ -1,1 +1,149 @@
-[]
+[
+  {
+    "id": 1,
+    "customer": {
+      "name": "sergsdrgsdg",
+      "email": "drgsdgsdgs@gmail.com",
+      "phone": "54456356343",
+      "address": "sedgsrghhfdjfgj gjfdjgfjfj",
+      "city": "dfgdghjgfj",
+      "postcode": "5252"
+    },
+    "items": [
+      {
+        "id": 2,
+        "title": "Smart Watch",
+        "description": "Fitness tracking, notifications, and health monitoring in one device.",
+        "price": 199.99,
+        "category": "Electronics",
+        "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&h=600",
+        "stock": 9,
+        "rating": 4.4,
+        "quantity": 1
+      },
+      {
+        "id": 4,
+        "title": "Canvas Backpack",
+        "description": "Durable everyday backpack with laptop storage.",
+        "price": 74.99,
+        "category": "Fashion",
+        "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?w=600&h=600",
+        "stock": 18,
+        "rating": 4.3,
+        "quantity": 1
+      }
+    ],
+    "total": 274.98
+  },
+  {
+    "id": 2,
+    "customer": {
+      "name": "Justin Poutoa",
+      "email": "jpoutoa865@gmail.com",
+      "phone": "04656451231",
+      "address": "bio bhiobhbl jbpi bijb",
+      "city": "bbiobihbh",
+      "postcode": "3030"
+    },
+    "items": [
+      {
+        "id": 1,
+        "title": "Wireless Headphones",
+        "description": "Noise-cancelling Bluetooth headphones with long battery life.",
+        "price": 129.99,
+        "category": "Electronics",
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=600",
+        "stock": 15,
+        "rating": 4.6,
+        "quantity": 5
+      },
+      {
+        "id": 3,
+        "title": "Running Shoes",
+        "description": "Lightweight running shoes designed for daily training.",
+        "price": 149.99,
+        "category": "Fashion",
+        "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&h=600",
+        "stock": 22,
+        "rating": 4.7,
+        "quantity": 2
+      }
+    ],
+    "total": 949.9300000000001
+  },
+  {
+    "id": 3,
+    "customer": {
+      "name": "Justin Poutoa",
+      "email": "jpoutoa865@gmail.com",
+      "phone": "4656451231",
+      "address": "bio bhiobhbl jbpi bijb",
+      "city": "bbiobihbh",
+      "postcode": "3030"
+    },
+    "items": [
+      {
+        "id": 1,
+        "title": "Wireless Headphones",
+        "description": "Noise-cancelling Bluetooth headphones with long battery life.",
+        "price": 129.99,
+        "category": "Electronics",
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=600",
+        "stock": 15,
+        "rating": 4.6,
+        "quantity": 5
+      }
+    ],
+    "total": 649.95
+  },
+  {
+    "id": 4,
+    "customer": {
+      "name": "dsgdsgsdfg gdsagsfsadf",
+      "email": "sdafsadfsggfdsg@gmail.com",
+      "phone": "1620501023",
+      "address": "wsdf dfsafasdfasdf fewfeasffsd",
+      "city": "asfsdfhgr",
+      "postcode": "3030"
+    },
+    "items": [
+      {
+        "id": 1,
+        "title": "Wireless Headphones",
+        "description": "Noise-cancelling Bluetooth headphones with long battery life.",
+        "price": 129.99,
+        "category": "Electronics",
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=600",
+        "stock": 15,
+        "rating": 4.6,
+        "quantity": 5
+      }
+    ],
+    "total": 649.95
+  },
+  {
+    "id": 5,
+    "customer": {
+      "name": "srdhgsdfhgdsfh",
+      "email": "dsfhggfdshdf@gmail.com",
+      "phone": "1651321231",
+      "address": "wefasbdf sdnfouasnpf osfosdfsdaf",
+      "city": "sdgasdgsadg",
+      "postcode": "9090"
+    },
+    "items": [
+      {
+        "id": 2,
+        "title": "Smart Watch",
+        "description": "Fitness tracking, notifications, and health monitoring in one device.",
+        "price": 199.99,
+        "category": "Electronics",
+        "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&h=600",
+        "stock": 9,
+        "rating": 4.4,
+        "quantity": 1
+      }
+    ],
+    "total": 199.99
+  }
+]
