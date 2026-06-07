@@ -1,0 +1,15 @@
+{
+  "name": "ecommerce-api",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "description": "Simple Express ecommerce API for a React assignment. No database required.",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}

@@ -2,7 +2,15 @@ import { Link } from 'react-router-dom';
 import { useCart } from '../context/CartContext';
 
 export default function ProductCard({ product }){
-    const { addToCart } = useCart();
+    //pull the cart array along with addToCart to track items already selected
+    const { addToCart, cart } = useCart();
+
+    //Find if this specific product is already in the cart
+    const cartItem = cart?.find((item) => item.id === product.id);
+    const currentQtyInCart = cartItem ? cartItem.quantity : 0;
+
+    //product is unavailable if global stock is 0 OR if the user added the maximum stock to their cart
+    const isOutOfStock = product.stock <= 0 || currentQtyInCart >= product.stock;
 
     return(
         <div className="bg-white border border-gray-200 rounded-xl shadow-sm overflow-hidden flex flex-col hover:shadow-md transition">

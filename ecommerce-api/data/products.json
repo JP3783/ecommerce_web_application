@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Headphones",
+    "description": "Noise-cancelling Bluetooth headphones with long battery life.",
+    "price": 129.99,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=600",
+    "stock": 15,
+    "rating": 4.6
+  },
+  {
+    "id": 2,
+    "title": "Smart Watch",
+    "description": "Fitness tracking, notifications, and health monitoring in one device.",
+    "price": 199.99,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&h=600",
+    "stock": 9,
+    "rating": 4.4
+  },
+  {
+    "id": 3,
+    "title": "Running Shoes",
+    "description": "Lightweight running shoes designed for daily training.",
+    "price": 149.99,
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&h=600",
+    "stock": 22,
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "title": "Canvas Backpack",
+    "description": "Durable everyday backpack with laptop storage.",
+    "price": 74.99,
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?w=600&h=600",
+    "stock": 18,
+    "rating": 4.3
+  },
+  {
+    "id": 5,
+    "title": "Coffee Maker",
+    "description": "Compact coffee maker for quick morning coffee.",
+    "price": 89.5,
+    "category": "Home",
+    "image": "https://images.unsplash.com/photo-1620807773206-49c1f2957417?w=600&h=600",
+    "stock": 11,
+    "rating": 4.2
+  },
+  {
+    "id": 6,
+    "title": "Desk Lamp",
+    "description": "Adjustable LED desk lamp with brightness control.",
+    "price": 45.0,
+    "category": "Home",
+    "image": "https://images.unsplash.com/photo-1621447980929-6638614633c8?w=600&h=600",
+    "stock": 30,
+    "rating": 4.1
+  },
+  {
+    "id": 7,
+    "title": "Water Bottle",
+    "description": "Reusable stainless steel water bottle.",
+    "price": 28.99,
+    "category": "Sports",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=600&h=600",
+    "stock": 40,
+    "rating": 4.5
+  },
+  {
+    "id": 8,
+    "title": "Yoga Mat",
+    "description": "Non-slip yoga mat suitable for home workouts.",
+    "price": 39.99,
+    "category": "Sports",
+    "image": "https://images.unsplash.com/photo-1592432678016-e910b452f9a2?w=600&h=600",
+    "stock": 25,
+    "rating": 4.4
+  },
+  {
+    "id": 9,
+    "title": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with deep bass and water resistance.",
+    "price": 79.99,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600&h=600",
+    "stock": 17,
+    "rating": 4.5
+  },
+  {
+    "id": 10,
+    "title": "Laptop Stand",
+    "description": "Aluminium laptop stand for improved desk posture.",
+    "price": 54.99,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1629317480872-45e07211ffd4?w=600&h=600",
+    "stock": 21,
+    "rating": 4.3
+  },
+  {
+    "id": 11,
+    "title": "Mechanical Keyboard",
+    "description": "Compact mechanical keyboard with tactile switches.",
+    "price": 119.99,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=600&h=600",
+    "stock": 13,
+    "rating": 4.8
+  },
+  {
+    "id": 12,
+    "title": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with adjustable sensitivity.",
+    "price": 49.99,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=600&h=600",
+    "stock": 35,
+    "rating": 4.4
+  },
+  {
+    "id": 13,
+    "title": "Denim Jacket",
+    "description": "Classic denim jacket for casual everyday wear.",
+    "price": 99.99,
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1543076447-215ad9ba6923?w=600&h=600",
+    "stock": 14,
+    "rating": 4.2
+  },
+  {
+    "id": 14,
+    "title": "Cotton T-Shirt",
+    "description": "Soft cotton t-shirt with a relaxed fit.",
+    "price": 29.99,
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600&h=600",
+    "stock": 50,
+    "rating": 4.1
+  },
+  {
+    "id": 15,
+    "title": "Leather Wallet",
+    "description": "Slim leather wallet with multiple card slots.",
+    "price": 44.99,
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=600&h=600",
+    "stock": 27,
+    "rating": 4.5
+  },
+  {
+    "id": 16,
+    "title": "Sunglasses",
+    "description": "Lightweight sunglasses with UV protection.",
+    "price": 59.99,
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600&h=600",
+    "stock": 19,
+    "rating": 4.3
+  },
+  {
+    "id": 17,
+    "title": "Ceramic Dinner Set",
+    "description": "Modern ceramic dinner set for four people.",
+    "price": 109.99,
+    "category": "Home",
+    "image": "https://images.unsplash.com/photo-1610701596007-11502861dcfa?w=600&h=600",
+    "stock": 10,
+    "rating": 4.6
+  },
+  {
+    "id": 18,
+    "title": "Throw Blanket",
+    "description": "Soft knitted throw blanket for the living room or bedroom.",
+    "price": 64.99,
+    "category": "Home",
+    "image": "https://images.unsplash.com/photo-1515852216175-927860d2be80?w=600&h=600",
+    "stock": 16,
+    "rating": 4.4
+  },
+  {
+    "id": 19,
+    "title": "Wall Clock",
+    "description": "Minimal wall clock with a clean modern design.",
+    "price": 34.99,
+    "category": "Home",
+    "image": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?w=600&h=600",
+    "stock": 24,
+    "rating": 4.0
+  },
+  {
+    "id": 20,
+    "title": "Plant Pot Set",
+    "description": "Set of three decorative indoor plant pots.",
+    "price": 42.99,
+    "category": "Home",
+    "image": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?w=600&h=600",
+    "stock": 31,
+    "rating": 4.2
+  },
+  {
+    "id": 21,
+    "title": "Dumbbell Set",
+    "description": "Adjustable dumbbell set for strength training at home.",
+    "price": 159.99,
+    "category": "Sports",
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=600&h=600",
+    "stock": 8,
+    "rating": 4.7
+  },
+  {
+    "id": 22,
+    "title": "Football",
+    "description": "Durable football suitable for training and casual matches.",
+    "price": 34.99,
+    "category": "Sports",
+    "image": "https://images.unsplash.com/photo-1551958219-acbc608c6377?w=600&h=600",
+    "stock": 36,
+    "rating": 4.3
+  },
+  {
+    "id": 23,
+    "title": "Tennis Racket",
+    "description": "Lightweight tennis racket for beginner and intermediate players.",
+    "price": 119.99,
+    "category": "Sports",
+    "image": "https://images.unsplash.com/photo-1622279457486-62dcc4a431d6?w=600&h=600",
+    "stock": 12,
+    "rating": 4.4
+  },
+  {
+    "id": 24,
+    "title": "Gym Bag",
+    "description": "Spacious gym bag with separate shoe compartment.",
+    "price": 69.99,
+    "category": "Sports",
+    "image": "https://images.unsplash.com/photo-1535879335191-618713ec3e3f?w=600&h=600",
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": 25,
+    "title": "Face Moisturiser",
+    "description": "Daily face moisturiser suitable for all skin types.",
+    "price": 24.99,
+    "category": "Beauty",
+    "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=600&h=600",
+    "stock": 45,
+    "rating": 4.5
+  },
+  {
+    "id": 26,
+    "title": "Hair Dryer",
+    "description": "Compact hair dryer with heat and speed settings.",
+    "price": 84.99,
+    "category": "Beauty",
+    "image": "https://images.unsplash.com/photo-1727364438136-6edc10ef0a52?w=600&h=600",
+    "stock": 15,
+    "rating": 4.1
+  },
+  {
+    "id": 27,
+    "title": "Makeup Brush Set",
+    "description": "Soft makeup brush set with storage pouch.",
+    "price": 39.99,
+    "category": "Beauty",
+    "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?w=600&h=600",
+    "stock": 28,
+    "rating": 4.4
+  },
+  {
+    "id": 28,
+    "title": "Scented Candle",
+    "description": "Relaxing scented candle with a natural soy wax blend.",
+    "price": 19.99,
+    "category": "Home",
+    "image": "https://images.unsplash.com/photo-1528351655744-27cc30462816?w=600&h=600",
+    "stock": 33,
+    "rating": 4.3
+  },
+  {
+    "id": 29,
+    "title": "Cookbook",
+    "description": "Beginner-friendly cookbook with simple weekday recipes.",
+    "price": 32.99,
+    "category": "Books",
+    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=600&h=600",
+    "stock": 26,
+    "rating": 4.6
+  },
+  {
+    "id": 30,
+    "title": "Web Development Guide",
+    "description": "Practical guide covering HTML, CSS, JavaScript, and React.",
+    "price": 54.99,
+    "category": "Books",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&h=600",
+    "stock": 18,
+    "rating": 4.7
+  }
+]
